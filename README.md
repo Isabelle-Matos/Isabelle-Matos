@@ -7,6 +7,8 @@
 
 
 ![Belle GitHub stats](https://github-readme-stats.vercel.app/api?username=Isabelle-Matos&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Matos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Linguagens 
 <div style="display: inline_block"><br/>
