@@ -7,7 +7,7 @@
 
 
 ![Belle GitHub stats](https://github-readme-stats.vercel.app/api?username=Isabelle-Matos&show_icons=true&theme=synthwave)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 ## Linguagens 
 <div style="display: inline_block"><br/>
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
