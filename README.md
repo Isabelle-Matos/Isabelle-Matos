@@ -1,5 +1,5 @@
 
-### Olá!✌️🙃
+### Olá! Me chamo isabelle e sou graduanda em computação✌️🙃
 
 ## Linguagens 
 <div style="display: inline_block"><br/>
