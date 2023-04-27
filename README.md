@@ -1,5 +1,7 @@
 
-### Olá! Me chamo isabelle e sou graduanda em computação✌️🙃
+### Olá!✌️🙃
+🎓Estudante de Computação
+💡 Interesse em desenvolvimento web
 
 ## Linguagens 
 <div style="display: inline_block"><br/>
