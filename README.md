@@ -1,7 +1,7 @@
 
 ### Olá!✌️🙃
-##🎓Estudante de Computação
-##💡 Interesse em desenvolvimento web
+- 🎓Estudante de Computação
+- 💡 Interesse em desenvolvimento web
 
 ## Linguagens 
 <div style="display: inline_block"><br/>
