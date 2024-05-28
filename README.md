@@ -25,8 +25,8 @@
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Matos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
 
-###
-:phone:
+###:phone:
+
 <div>
 <a href = "mailto:isabelle.mattos25@aluno.ufsj.edu.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/isabelle-matos-088388283" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
