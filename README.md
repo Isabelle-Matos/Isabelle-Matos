@@ -1,7 +1,6 @@
 
 ### Olá!✌️🙃
 - 🎓Estudante de Computação
-
  
 <div style="display: inline_block"><br/>
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -17,10 +16,17 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Matos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
 
+### Contatos
 
+<div>
+<a href = "mailto:contato@isabelle.mattos@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5531997038883)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531997038883)
 <a href="https://www.beecrowd.com.br/judge/pt/profile/484619" target="blank"><img align="left" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" alt="Beecrowd-Lucas-Marcuzo" height="25" width="35" />
+</div>
+
+
 <div>
 <img align="center" alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
 <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
