@@ -1,7 +1,8 @@
 
 ### Olá!✌️🙃
 - 🎓Estudante de Computação
- 
+
+ ### :computer:
 <div style="display: inline_block"><br/>
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -10,7 +11,7 @@
 <!-- <img align= "center" alt="Apache Spark" src= "https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" /> -->
 </div>
 
-###
+### 
 
 <div>
 <img align="center" alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
