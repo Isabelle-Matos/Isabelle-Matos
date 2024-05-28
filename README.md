@@ -5,7 +5,6 @@
 ### Linguagens
  
 <div style="display: inline_block"><br/>
- ### Linguagens
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -14,6 +13,11 @@
 </div>
 
 ## Others
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+<img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Matos&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
