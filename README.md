@@ -13,9 +13,13 @@
 <!-- <img align= "center" alt="Apache Spark" src= "https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" /> -->
 </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Matos&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+<a href="https://github.com/Isabelle-Matos">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Matos&layout=compact&langs_count=7&theme=cobalt"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+</div>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Matos&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5531997038883)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531997038883)
