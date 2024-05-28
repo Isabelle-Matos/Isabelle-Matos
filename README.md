@@ -26,6 +26,7 @@
 <a href="https://www.beecrowd.com.br/judge/pt/profile/484619" target="blank"><img align="left" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" alt="Beecrowd-Lucas-Marcuzo" height="25" width="35" />
 </div>
 
+### Outros
 
 <div>
 <img align="center" alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
