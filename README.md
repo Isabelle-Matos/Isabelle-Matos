@@ -13,7 +13,7 @@
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Matos&layout&theme=compact,radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Matos&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5531997038883)
