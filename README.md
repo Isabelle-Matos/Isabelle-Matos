@@ -36,7 +36,6 @@
 <a href="https://www.beecrowd.com.br/judge/pt/profile/484619" target="blank"><img align="left" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" alt="Beecrowd-Lucas-Marcuzo" height="25" width="35" />
 </div>
 
-![Snake animation](https://github.com/Isabelle-Matos/Isabelle-Matos/blob/output/github-contribution-grid-snake.svg)
 
 
 
