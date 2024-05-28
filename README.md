@@ -2,7 +2,7 @@
 ### Olá!✌️🙃
 - 🎓Estudante de Computação
 
-### :computer:
+### 
 <div style="display: inline_block"><br/>
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -26,7 +26,7 @@
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Matos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
 
-### :phone:
+### 
 
 <div>
 <a href = "mailto:isabelle.mattos25@aluno.ufsj.edu.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
