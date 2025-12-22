@@ -1,5 +1,4 @@
 ## 👋 Olá! ✌️🙃
----
 
 ## 🧑‍💻 Linguagens mais utilizadas
 
@@ -9,8 +8,6 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </div>
-
----
 
 ## 🛠️ Ferramentas e bibliotecas
 
@@ -23,9 +20,6 @@
 <img align="center" alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
 -->
 
----
-
-## 📊 Estatísticas do GitHub
 
 <div>
   <a href="https://github.com/Isabelle-Matos">
