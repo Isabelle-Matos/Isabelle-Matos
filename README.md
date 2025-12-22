@@ -33,8 +33,3 @@
 </div>
 
 
-
-
-
-
-arrume esse readm e para colcor tipo: ferramentas utilizadas, linguagens frequentes
