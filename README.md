@@ -14,16 +14,16 @@
 
 <div>
 <img align="center" alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
-<!-- <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> -->
+<img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
 ###
 
-<div>
+<!-- <div>
 <a href="https://github.com/Isabelle-Matos">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Matos&layout=compact&langs_count=7&theme=cobalt"/>
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Matos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 
 ### 📫 Contato
 
