@@ -16,7 +16,7 @@ I'm Isabelle - a Computer Science student exploring data patterns, automated pip
 
 ### 📈 Metrics & Stats
 
-![Metrics](https://github.com/Isabelle-Matos/Isabelle-Matos/blob/master/metrics.svg)
+![Isabelle's Metrics](https://metrics.lecoq.io/Isabelle-Matos?template=classic&base=header,activity,community,repositories,metadata&plugin_habits=yes&plugin_achievements=yes&plugin_achievements_display=compact)
 
 ### 📫 Contact
 
