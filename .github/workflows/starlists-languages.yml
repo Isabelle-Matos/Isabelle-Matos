@@ -1,0 +1,26 @@
+name: Metrics - Star Lists Languages
+
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.starlists.languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Isabelle-Matos
+          base: ""
+          plugin_languages: yes
+          plugin_languages_sections: recently-used, stargazers
+          plugin_languages_other: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_stars: yes
+          plugin_stars_limit: 4
