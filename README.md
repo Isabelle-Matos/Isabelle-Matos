@@ -23,7 +23,6 @@
 <div>
 <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Isabelle-Matos&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
----
 
 ### 📫 Contact
 
