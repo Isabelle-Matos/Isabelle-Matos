@@ -1,7 +1,5 @@
-### Hello! ✌️🙃
+# Hello! ✌️🙃
 I'm Isabelle - a Computer Science student exploring data patterns, automated pipelines, and system security fundamentals.
-
----
 
 ### 🧑‍💻 Languages & Tools
 
@@ -15,8 +13,6 @@ I'm Isabelle - a Computer Science student exploring data patterns, automated pip
 <img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
----
 
 ### 📊 Most Used Languages
 
