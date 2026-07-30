@@ -14,9 +14,11 @@ I'm Isabelle - a Computer Science student exploring data patterns, automated pip
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-### 📈 Metrics & Stats
+### 📊 Languages from star lists
 
-![Isabelle's Metrics](https://metrics.lecoq.io/Isabelle-Matos?template=classic&base=header,activity,community,repositories,metadata&plugin_habits=yes&plugin_achievements=yes&plugin_achievements_display=compact)
+<div>
+<img src="https://metrics.lecoq.io/Isabelle-Matos?template=classic&base=0&plugin_languages=yes&plugin_languages_ignored=&plugin_languages_sections=recently-used,stargazers&plugin_languages_other=yes&plugin_languages_colors=github&plugin_languages_limit=8&plugin_stars=yes&plugin_stars_limit=4&theme=tokyonight&hide_border=true" />
+</div>
 
 ### 📫 Contact
 
