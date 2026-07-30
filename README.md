@@ -16,7 +16,7 @@ I'm Isabelle - a Computer Science student exploring data patterns, automated pip
 
 ### 📊 Metrics
 <div align="center">
-  <img src="metrics.plugin.leetcode.svg" width="48%" />
+  <img src="metrics.plugin.leetcode.svg" width="45%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Isabelle-Matos&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
