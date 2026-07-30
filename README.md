@@ -14,11 +14,9 @@ I'm Isabelle - a Computer Science student exploring data patterns, automated pip
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-### 📊 Most Used Languages
+### 📈 Metrics & Stats
 
-<div>
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Isabelle-Matos&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
+![Metrics](https://github.com/Isabelle-Matos/Isabelle-Matos/blob/master/metrics.svg)
 
 ### 📫 Contact
 
