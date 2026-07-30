@@ -21,9 +21,8 @@
 ### 📊 Most Used Languages
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Matos&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Matos&hide=javascript,css,scss,html&theme=tokyonigh"/>
 </div>
-
 ---
 
 ### 📫 Contact
