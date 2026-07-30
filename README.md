@@ -14,8 +14,6 @@ I'm Isabelle - a Computer Science student exploring data patterns, automated pip
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-### 📊 Languages from star lists
-
 <div align="center">
   <img src="metrics.plugin.leetcode.svg" width="48%" />
   <img src="metrics.plugin.starlists.languages.svg" width="48%" />
