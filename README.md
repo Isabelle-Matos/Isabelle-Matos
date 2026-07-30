@@ -1,5 +1,5 @@
-## Hello! ✌️🙃
-Computer Science Student exploring data patterns, automated pipelines, and system security fundamentals.
+### Hello! ✌️🙃
+I'm Isabelle - a Computer Science student exploring data patterns, automated pipelines, and system security fundamentals.
 
 ---
 
