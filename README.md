@@ -1,5 +1,5 @@
-### Hello! ✌️🙃
-- 🎓 Computer Science Student
+## Hello! ✌️🙃
+Computer Science Student exploring data patterns, automated pipelines, and system security fundamentals.
 
 ---
 
