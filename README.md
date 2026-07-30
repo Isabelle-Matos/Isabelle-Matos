@@ -16,8 +16,8 @@ I'm Isabelle - a Computer Science student exploring data patterns, automated pip
 
 ### 📊 Languages from star lists
 
-<div>
-<img src="https://metrics.lecoq.io/Isabelle-Matos?template=classic&base=0&plugin_languages=yes&plugin_languages_ignored=&plugin_languages_sections=recently-used,stargazers&plugin_languages_other=yes&plugin_languages_colors=github&plugin_languages_limit=8&plugin_stars=yes&plugin_stars_limit=4&theme=tokyonight&hide_border=true" />
+<div align="center">
+  <img src="https://metrics.lecoq.io/Isabelle-Matos?template=classic&base=0&plugin_leetcode=yes&plugin_leetcode_user=izzypeazi55&plugin_languages=yes&plugin_languages_sections=stargazers&plugin_languages_limit=8&theme=tokyonight&hide_border=true" />
 </div>
 
 ### 📫 Contact
