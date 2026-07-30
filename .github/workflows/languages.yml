@@ -18,5 +18,6 @@ jobs:
           user: Isabelle-Matos
           base: header, repositories
           plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
           plugin_languages_ignored: ""
           plugin_languages_limit: 8
