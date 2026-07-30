@@ -3,13 +3,18 @@
 
 ---
 
-### 🧑‍💻 Languages & Technologies
+### 🧑‍💻 Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,git,linux)](https://skillicons.dev)
-
-### 🛠️ Tools & Libraries
-
-[![My Tools](https://skillicons.dev/icons?i=pandas,plotly,vscode)](https://skillicons.dev)
+<div style="display: inline_block"><br/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/git-%F0%9F%A4%96-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white" />
+</div>
 
 ---
 
