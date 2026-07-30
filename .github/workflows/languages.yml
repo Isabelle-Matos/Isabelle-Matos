@@ -13,13 +13,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.starlists.languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: Isabelle-Matos
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: ""
-          plugin_languages_sections: stargazers
-          plugin_languages_other: yes
-          plugin_languages_colors: github
           plugin_languages_limit: 8
