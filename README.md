@@ -1,5 +1,5 @@
 # Hello! ✌️🙃
-I'm Isabelle - a Computer Science student exploring data patterns, automated pipelines, and system security fundamentals.
+I'm Isabelle - a Computer Science student exploring data patterns, and system security fundamentals.
 <div align="center">
   <img src="metrics.plugin.leetcode.svg" width="35%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Isabelle-Matos&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
