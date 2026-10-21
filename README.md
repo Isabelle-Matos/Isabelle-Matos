@@ -2,7 +2,7 @@
 I'm Isabelle - a Computer Science student exploring data patterns, and system security fundamentals.
 <div align="center">
   <img src="https://stats.justsong.cn/api/leetcode/?username=izzypeazi25&theme=tokyonight" width="35%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Isabelle-Matos&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Isabelle-Matos&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
 </div>
 
 <div style="display: inline_block"><br/>
